@@ -3,11 +3,6 @@
 
 The project addresses the issue of growing water waste. It offers YoloV8 Algorithm-based underwater waste detection, the model was trained on a dataset of 5000 images.
 
-## Demo
-Underwater Waste Detection Using YoloV8
-
-[Click here](https://universe.roboflow.com/neural-ocean/neural_ocean/model/3)
-
 ## Tech Stack
 
 - Python
